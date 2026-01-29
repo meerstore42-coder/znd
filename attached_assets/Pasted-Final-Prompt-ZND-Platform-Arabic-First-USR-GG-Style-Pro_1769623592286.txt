@@ -1,0 +1,45 @@
+Final Prompt: ZND Platform (Arabic First - USR.GG Style)
+Project Name: ZND Platform (منصة زند) Primary Language: Arabic (RTL) - The entire site must load in Arabic by default. Secondary Language: English (LTR) - Available via a toggle switch.
+
+1. Visual Identity (USR.GG Dark Aesthetic)
+Base Theme: Ultra-Dark Minimalist. Background color must be pure black (#000000).
+
+Card Style: Use thin, dark-grey borders (#1A1A1A) for product cards and containers.
+
+Hover Effects: When hovering over a product, the border should glow with a subtle "Electric Blue" or "Silver" light.
+
+Typography: Use the "Tajawal" font for Arabic as the primary font to ensure a modern, professional look.
+
+Layout: A clean grid system with a "High-Tech" feel, keeping the interface very simple and uncluttered.
+
+2. Core Functionality & Security
+Registration: Users must sign up with: Name, Username, Gmail, and Password.
+
+Default Verification: The system must require Gmail Verification (OTP code or link) before the user can log in for the first time.
+
+Security: Implement full encryption for digital files and account credentials.
+
+Password Recovery: "Forgot Password" functionality via Gmail.
+
+3. Payment & Marketplace
+Gateways:
+
+USDT (Crypto): Display wallet address and QR code for manual or automated payment.
+
+MasterCard/Visa: Direct integration for card payments.
+
+Product Categories: Programming Tools, External Softwares, Gaming Cards, and Gaming Accounts.
+
+4. Dashboards
+User Dashboard (In Arabic): Profile management, avatar upload, and a "Secure Vault" to access purchased products.
+
+Admin Dashboard (Full Control): * Real-time statistics: Total Sales, Daily Visitors (Live Counter).
+
+User Management: Ability to Ban/Block users and view their activity.
+
+Inventory Management: Add/Edit/Delete products with encrypted file uploads.
+
+5. SEO & Branding
+SEO: Fully optimized for Arabic search terms: "منصة زند", "زند", and English "ZND".
+
+Performance: Use lightweight code for lightning-fast loading, optimized for all mobile and desktop devices.
